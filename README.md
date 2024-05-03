@@ -31,7 +31,23 @@ As a result, the research has a number of key objectives that it aims to accompl
 ### 4. Model Evaluation:
 - Utilized metrics such as MSE, RMSE, R-squared, MAE, and Cross-Validation score for evaluation.
 
-This methodology aimed to accelerate drug discovery by predicting compound bioactivity using machine learning techniques.
+## Results
+The analysis of Lipinski descriptor boxplots revealed the diversity and structural variations
+present among AChE inhibitors. Furthermore, the categorization of compounds
+into three discrete classes, determined by their bioactivity values, particularly the IC50 ,
+provided an extensive understanding of the dataset containing AChE inhibitors. Among
+the different types of regression models used, the Random Forest (RF) model appeared
+to be the most robust performer, demonstrating a noteworthy R-squared value of 0.74.
+The significant value of this model demonstrates its capacity to efficiently capture a
+considerable proportion of the variance in the data, hence highlighting its accuracy in
+forecasting bioactivity. The subsequent examination of feature importance further emphasised
+the descriptors that have a substantial impact on the predictive ability of the
+model. It is worth noting that descriptors that have a large influence on inhibitory activ39
+ity have the potential to be crucial starting points for rational drug design efforts. This
+serves as a guiding principle for strategically altering molecular structures in order to
+improve their strength and effectiveness. In conclusion, the utilisation of an integrated
+method involving the analysis of descriptors, categorization, and predictive modelling
+presents significant potential for drug design.
 
-Full dissertation can be found here https://drive.google.com/file/d/19iWYSXAh3r0kyYpBC3zv6URilXaG2N81/view?usp=sharing and the recording explaining the same can be found here 
+Full dissertation can be found here https://drive.google.com/file/d/19iWYSXAh3r0kyYpBC3zv6URilXaG2N81/view?usp=sharing and the recording explaining the same can be found here https://drive.google.com/file/d/1_TsfbsYmm22yVWzU9RatktdEcjbdd0HZ/view?usp=sharing
 
