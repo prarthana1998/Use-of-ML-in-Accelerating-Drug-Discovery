@@ -31,7 +31,7 @@ As a result, the research has a number of key objectives that it aims to accompl
 ### 4. Model Evaluation:
 - Utilized metrics such as MSE, RMSE, R-squared, MAE, and Cross-Validation score for evaluation.
 
-### Results Overview
+## Results Overview
 
 - **Lipinski Descriptor Analysis:**
   - Revealed diversity and structural variations among AChE inhibitors.
