@@ -33,3 +33,5 @@ As a result, the research has a number of key objectives that it aims to accompl
 
 This methodology aimed to accelerate drug discovery by predicting compound bioactivity using machine learning techniques.
 
+Full dissertation can be found here https://drive.google.com/file/d/19iWYSXAh3r0kyYpBC3zv6URilXaG2N81/view?usp=sharing and the recording explaining the same can be found here 
+
